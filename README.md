@@ -1,23 +1,14 @@
 <h1 style="text-align: center;"> Annika Stachowiak </h1>
 
-## Current
-Obtaining a Computer Science degree from Eastern Washington University.
+## About Me
+Currently working on maintaining old skills and gaining new ones.
 
 
-### Languages I'm okay at
-- Java
+### Current Projects
+- Android OS
+- Customizable Notes App for iOS
+- 2D Adventure Game for PC
 
-### Languages I've worked with that I'm not super good with
-- C
-- C++
-- Python
-
-## In the Future
-Working towards being a video game developer.
-Or a front-end software engineer.
-
-### Languages I want to learn
-- Cobol
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/rR22E1Lkea2Yw/giphy.gif" width="100"/>
